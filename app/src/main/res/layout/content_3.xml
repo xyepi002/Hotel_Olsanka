@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior" tools:showIn="@layout/activity_3"
+    tools:context="com.example.ilya.afdf.Activity3"
+    android:background="#ffe762">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Umístěn na nejvyšším 9. poschodí, nabízí jedinečný pohled na historickou Prahu z terasy pokoje. Pro svou okouzlující atmosféru je ideálním místem pro romantický nebo obchodní pobyt.   Vybavení: LCD televize se satelitním příjmem, terasa, stůl s židlí, postel, telefon s přímou volbou, lednice, trezor, koupelna s vanou včetně ručníků a osušek, toaleta, fén, vysokorychlostní bezplatné WiFi, set na kávu a čaj."
+        android:id="@+id/textView17"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="143dp" />
+</RelativeLayout>

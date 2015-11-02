@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hotel Olšanka</string>
+    <string name="title_activity_activity_two">Pokoje</string>
+    <string name="title_activity_3">Luxusni pokoj</string>
+    <string name="title_activity_4">Obyčejný pokoj</string>
+    <string name="title_activity_rezervace">Rezervace</string>
+    <string name="title_activity_hotel_sl">Hotel Služby</string>
+    <string name="title_activity_hotel__info">Hotel Info</string>
+    <string name="title_activity_kontakty">Kontakty</string>
+
+
+    <string name="item1">Wi-fi</string>
+    <string name="item2">Telefon</string>
+    <string name="item3">Restaurace</string>
+    <string name="item4">Web-kamery</string>
+</resources>
